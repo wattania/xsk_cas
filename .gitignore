@@ -2,3 +2,5 @@
 **/*/.war
 **/*/target
 **/*/.svn
+modules/*.jar
+modules/*.war
